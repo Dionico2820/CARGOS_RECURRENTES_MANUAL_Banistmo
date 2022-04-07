@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Bloqueo Incremental","Bloqueo incremental Contraseña de certificado fallido","FAILURE","2022-04-06T22:45:04.57-05:00[America/Bogota]","0.0","18.46"
+"Bloqueo Incremental","Bloqueo incremental Contraseña del API fallido","FAILURE","2022-04-06T22:45:23.126-05:00[America/Bogota]","0.0","24.07"
+"Bloqueo Incremental","Bloqueo incremental validando credenciales en ambiente no valido","FAILURE","2022-04-06T22:45:47.209-05:00[America/Bogota]","0.0","5.11"
+"Bloqueo Incremental","Bloqueo incremental validando el aumento de tiempo de bloqueo","FAILURE","2022-04-06T22:45:52.339-05:00[America/Bogota]","0.0","12.87"
